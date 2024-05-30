@@ -13,7 +13,7 @@ This project contains two parts.
 
 
 
-## FCN(Fully Convolutional Network)
+
 We train the network for 10 epochs and rank the accurancy for 
     
     "Vanilla CNN (No Attention)",
